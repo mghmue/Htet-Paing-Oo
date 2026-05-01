@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Pro",
+  "description": "A full-stack Inventory Management System with multi-user authentication, location-based stock movement, real-time history logging, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
